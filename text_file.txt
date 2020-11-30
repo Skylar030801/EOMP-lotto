@@ -1,0 +1,2 @@
+age is: 32
+Results: [39, 27, 3, 44, 7, 47] sorry you got nothing correct,try again
